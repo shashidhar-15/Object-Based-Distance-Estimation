@@ -1,6 +1,6 @@
 # 📏 Real-Time Distance Estimation using YOLO & Monocular Camera
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-red)
 ![Status](https://img.shields.io/badge/Status-Working-success)
